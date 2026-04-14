@@ -1,6 +1,6 @@
 # 🏀 NBA Player Performance Analysis
 
-Exploratory data analysis and linear regression on NBA player statistics from 2000–present.
+Exploratory data analysis and linear regression on NBA player statistics from 1996–2022.
 Built to answer one question: **what actually separates elite scorers from everyone else?**
 
 ---
